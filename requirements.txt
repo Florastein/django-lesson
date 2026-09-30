@@ -1,3 +1,4 @@
 psycopg2
 django-environ
 unittest2
+django
